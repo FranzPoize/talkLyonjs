@@ -1,0 +1,2 @@
+canvas yolo1.jpg 5Mo avg : 505.37600000000094 max : 1264 min : 419 ecartType : 90.1616250075385
+asmjs avg : 752.0509999999994 max : 987 min : 695 ecartType : 28.609131391917487
